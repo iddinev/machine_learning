@@ -1,0 +1,5542 @@
+Running Gradient Descent ...
+J =  32.073
+ans =  32.073
+num_features =  2
+theta =
+
+   0.058391
+   0.653288
+
+J =  6.7372
+num_features =  2
+theta =
+
+   0.062892
+   0.770010
+
+J =  5.9316
+num_features =  2
+theta =
+
+   0.057823
+   0.791348
+
+J =  5.9012
+num_features =  2
+theta =
+
+   0.051064
+   0.795730
+
+J =  5.8952
+num_features =  2
+theta =
+
+   0.044014
+   0.797096
+
+J =  5.8901
+num_features =  2
+theta =
+
+   0.036924
+   0.797925
+
+J =  5.8850
+num_features =  2
+theta =
+
+   0.029837
+   0.798658
+
+J =  5.8799
+num_features =  2
+theta =
+
+   0.022761
+   0.799373
+
+J =  5.8749
+num_features =  2
+theta =
+
+   0.015698
+   0.800083
+
+J =  5.8698
+num_features =  2
+theta =
+
+   0.0086469
+   0.8007915
+
+J =  5.8648
+num_features =  2
+theta =
+
+   0.0016088
+   0.8014986
+
+J =  5.8598
+num_features =  2
+theta =
+
+  -0.0054166
+   0.8022044
+
+J =  5.8548
+num_features =  2
+theta =
+
+  -0.012429
+   0.802909
+
+J =  5.8499
+num_features =  2
+theta =
+
+  -0.019429
+   0.803612
+
+J =  5.8449
+num_features =  2
+theta =
+
+  -0.026417
+   0.804314
+
+J =  5.8400
+num_features =  2
+theta =
+
+  -0.033392
+   0.805015
+
+J =  5.8351
+num_features =  2
+theta =
+
+  -0.040354
+   0.805714
+
+J =  5.8302
+num_features =  2
+theta =
+
+  -0.047304
+   0.806412
+
+J =  5.8253
+num_features =  2
+theta =
+
+  -0.054241
+   0.807109
+
+J =  5.8205
+num_features =  2
+theta =
+
+  -0.061166
+   0.807805
+
+J =  5.8156
+num_features =  2
+theta =
+
+  -0.068078
+   0.808499
+
+J =  5.8108
+num_features =  2
+theta =
+
+  -0.074978
+   0.809193
+
+J =  5.8060
+num_features =  2
+theta =
+
+  -0.081865
+   0.809884
+
+J =  5.8012
+num_features =  2
+theta =
+
+  -0.088740
+   0.810575
+
+J =  5.7965
+num_features =  2
+theta =
+
+  -0.095603
+   0.811265
+
+J =  5.7917
+num_features =  2
+theta =
+
+  -0.10245
+   0.81195
+
+J =  5.7870
+num_features =  2
+theta =
+
+  -0.10929
+   0.81264
+
+J =  5.7822
+num_features =  2
+theta =
+
+  -0.11612
+   0.81333
+
+J =  5.7775
+num_features =  2
+theta =
+
+  -0.12293
+   0.81401
+
+J =  5.7729
+num_features =  2
+theta =
+
+  -0.12973
+   0.81469
+
+J =  5.7682
+num_features =  2
+theta =
+
+  -0.13652
+   0.81538
+
+J =  5.7635
+num_features =  2
+theta =
+
+  -0.14330
+   0.81606
+
+J =  5.7589
+num_features =  2
+theta =
+
+  -0.15006
+   0.81674
+
+J =  5.7543
+num_features =  2
+theta =
+
+  -0.15681
+   0.81741
+
+J =  5.7497
+num_features =  2
+theta =
+
+  -0.16355
+   0.81809
+
+J =  5.7451
+num_features =  2
+theta =
+
+  -0.17028
+   0.81877
+
+J =  5.7405
+num_features =  2
+theta =
+
+  -0.17700
+   0.81944
+
+J =  5.7360
+num_features =  2
+theta =
+
+  -0.18370
+   0.82011
+
+J =  5.7315
+num_features =  2
+theta =
+
+  -0.19039
+   0.82079
+
+J =  5.7269
+num_features =  2
+theta =
+
+  -0.19707
+   0.82146
+
+J =  5.7224
+num_features =  2
+theta =
+
+  -0.20374
+   0.82213
+
+J =  5.7179
+num_features =  2
+theta =
+
+  -0.21039
+   0.82280
+
+J =  5.7135
+num_features =  2
+theta =
+
+  -0.21704
+   0.82346
+
+J =  5.7090
+num_features =  2
+theta =
+
+  -0.22367
+   0.82413
+
+J =  5.7046
+num_features =  2
+theta =
+
+  -0.23029
+   0.82479
+
+J =  5.7002
+num_features =  2
+theta =
+
+  -0.23689
+   0.82546
+
+J =  5.6958
+num_features =  2
+theta =
+
+  -0.24349
+   0.82612
+
+J =  5.6914
+num_features =  2
+theta =
+
+  -0.25007
+   0.82678
+
+J =  5.6870
+num_features =  2
+theta =
+
+  -0.25664
+   0.82744
+
+J =  5.6826
+num_features =  2
+theta =
+
+  -0.26320
+   0.82810
+
+J =  5.6783
+num_features =  2
+theta =
+
+  -0.26975
+   0.82876
+
+J =  5.6740
+num_features =  2
+theta =
+
+  -0.27629
+   0.82942
+
+J =  5.6697
+num_features =  2
+theta =
+
+  -0.28281
+   0.83007
+
+J =  5.6654
+num_features =  2
+theta =
+
+  -0.28933
+   0.83073
+
+J =  5.6611
+num_features =  2
+theta =
+
+  -0.29583
+   0.83138
+
+J =  5.6568
+num_features =  2
+theta =
+
+  -0.30232
+   0.83203
+
+J =  5.6526
+num_features =  2
+theta =
+
+  -0.30879
+   0.83268
+
+J =  5.6483
+num_features =  2
+theta =
+
+  -0.31526
+   0.83333
+
+J =  5.6441
+num_features =  2
+theta =
+
+  -0.32171
+   0.83398
+
+J =  5.6399
+num_features =  2
+theta =
+
+  -0.32816
+   0.83463
+
+J =  5.6357
+num_features =  2
+theta =
+
+  -0.33459
+   0.83527
+
+J =  5.6315
+num_features =  2
+theta =
+
+  -0.34101
+   0.83592
+
+J =  5.6274
+num_features =  2
+theta =
+
+  -0.34741
+   0.83656
+
+J =  5.6232
+num_features =  2
+theta =
+
+  -0.35381
+   0.83720
+
+J =  5.6191
+num_features =  2
+theta =
+
+  -0.36020
+   0.83785
+
+J =  5.6150
+num_features =  2
+theta =
+
+  -0.36657
+   0.83849
+
+J =  5.6109
+num_features =  2
+theta =
+
+  -0.37293
+   0.83913
+
+J =  5.6068
+num_features =  2
+theta =
+
+  -0.37928
+   0.83976
+
+J =  5.6027
+num_features =  2
+theta =
+
+  -0.38562
+   0.84040
+
+J =  5.5987
+num_features =  2
+theta =
+
+  -0.39195
+   0.84104
+
+J =  5.5946
+num_features =  2
+theta =
+
+  -0.39826
+   0.84167
+
+J =  5.5906
+num_features =  2
+theta =
+
+  -0.40457
+   0.84230
+
+J =  5.5866
+num_features =  2
+theta =
+
+  -0.41086
+   0.84294
+
+J =  5.5826
+num_features =  2
+theta =
+
+  -0.41714
+   0.84357
+
+J =  5.5786
+num_features =  2
+theta =
+
+  -0.42341
+   0.84420
+
+J =  5.5747
+num_features =  2
+theta =
+
+  -0.42967
+   0.84483
+
+J =  5.5707
+num_features =  2
+theta =
+
+  -0.43592
+   0.84545
+
+J =  5.5668
+num_features =  2
+theta =
+
+  -0.44216
+   0.84608
+
+J =  5.5628
+num_features =  2
+theta =
+
+  -0.44838
+   0.84671
+
+J =  5.5589
+num_features =  2
+theta =
+
+  -0.45460
+   0.84733
+
+J =  5.5550
+num_features =  2
+theta =
+
+  -0.46080
+   0.84795
+
+J =  5.5512
+num_features =  2
+theta =
+
+  -0.46699
+   0.84857
+
+J =  5.5473
+num_features =  2
+theta =
+
+  -0.47317
+   0.84920
+
+J =  5.5434
+num_features =  2
+theta =
+
+  -0.47934
+   0.84982
+
+J =  5.5396
+num_features =  2
+theta =
+
+  -0.48550
+   0.85043
+
+J =  5.5358
+num_features =  2
+theta =
+
+  -0.49165
+   0.85105
+
+J =  5.5319
+num_features =  2
+theta =
+
+  -0.49778
+   0.85167
+
+J =  5.5281
+num_features =  2
+theta =
+
+  -0.50391
+   0.85228
+
+J =  5.5244
+num_features =  2
+theta =
+
+  -0.51002
+   0.85290
+
+J =  5.5206
+num_features =  2
+theta =
+
+  -0.51613
+   0.85351
+
+J =  5.5168
+num_features =  2
+theta =
+
+  -0.52222
+   0.85412
+
+J =  5.5131
+num_features =  2
+theta =
+
+  -0.52830
+   0.85473
+
+J =  5.5094
+num_features =  2
+theta =
+
+  -0.53437
+   0.85534
+
+J =  5.5056
+num_features =  2
+theta =
+
+  -0.54043
+   0.85595
+
+J =  5.5019
+num_features =  2
+theta =
+
+  -0.54648
+   0.85656
+
+J =  5.4982
+num_features =  2
+theta =
+
+  -0.55252
+   0.85717
+
+J =  5.4946
+num_features =  2
+theta =
+
+  -0.55854
+   0.85777
+
+J =  5.4909
+num_features =  2
+theta =
+
+  -0.56456
+   0.85838
+
+J =  5.4872
+num_features =  2
+theta =
+
+  -0.57056
+   0.85898
+
+J =  5.4836
+num_features =  2
+theta =
+
+  -0.57656
+   0.85958
+
+J =  5.4800
+num_features =  2
+theta =
+
+  -0.58254
+   0.86018
+
+J =  5.4764
+num_features =  2
+theta =
+
+  -0.58851
+   0.86078
+
+J =  5.4728
+num_features =  2
+theta =
+
+  -0.59447
+   0.86138
+
+J =  5.4692
+num_features =  2
+theta =
+
+  -0.60042
+   0.86198
+
+J =  5.4656
+num_features =  2
+theta =
+
+  -0.60636
+   0.86258
+
+J =  5.4620
+num_features =  2
+theta =
+
+  -0.61229
+   0.86317
+
+J =  5.4585
+num_features =  2
+theta =
+
+  -0.61821
+   0.86377
+
+J =  5.4550
+num_features =  2
+theta =
+
+  -0.62412
+   0.86436
+
+J =  5.4514
+num_features =  2
+theta =
+
+  -0.63002
+   0.86495
+
+J =  5.4479
+num_features =  2
+theta =
+
+  -0.63591
+   0.86554
+
+J =  5.4444
+num_features =  2
+theta =
+
+  -0.64178
+   0.86613
+
+J =  5.4409
+num_features =  2
+theta =
+
+  -0.64765
+   0.86672
+
+J =  5.4375
+num_features =  2
+theta =
+
+  -0.65350
+   0.86731
+
+J =  5.4340
+num_features =  2
+theta =
+
+  -0.65935
+   0.86790
+
+J =  5.4306
+num_features =  2
+theta =
+
+  -0.66518
+   0.86848
+
+J =  5.4271
+num_features =  2
+theta =
+
+  -0.67100
+   0.86907
+
+J =  5.4237
+num_features =  2
+theta =
+
+  -0.67682
+   0.86965
+
+J =  5.4203
+num_features =  2
+theta =
+
+  -0.68262
+   0.87024
+
+J =  5.4169
+num_features =  2
+theta =
+
+  -0.68841
+   0.87082
+
+J =  5.4135
+num_features =  2
+theta =
+
+  -0.69419
+   0.87140
+
+J =  5.4101
+num_features =  2
+theta =
+
+  -0.69996
+   0.87198
+
+J =  5.4068
+num_features =  2
+theta =
+
+  -0.70573
+   0.87256
+
+J =  5.4034
+num_features =  2
+theta =
+
+  -0.71148
+   0.87314
+
+J =  5.4001
+num_features =  2
+theta =
+
+  -0.71722
+   0.87371
+
+J =  5.3968
+num_features =  2
+theta =
+
+  -0.72295
+   0.87429
+
+J =  5.3935
+num_features =  2
+theta =
+
+  -0.72866
+   0.87486
+
+J =  5.3902
+num_features =  2
+theta =
+
+  -0.73437
+   0.87544
+
+J =  5.3869
+num_features =  2
+theta =
+
+  -0.74007
+   0.87601
+
+J =  5.3836
+num_features =  2
+theta =
+
+  -0.74576
+   0.87658
+
+J =  5.3803
+num_features =  2
+theta =
+
+  -0.75144
+   0.87715
+
+J =  5.3771
+num_features =  2
+theta =
+
+  -0.75711
+   0.87772
+
+J =  5.3738
+num_features =  2
+theta =
+
+  -0.76276
+   0.87829
+
+J =  5.3706
+num_features =  2
+theta =
+
+  -0.76841
+   0.87886
+
+J =  5.3674
+num_features =  2
+theta =
+
+  -0.77405
+   0.87942
+
+J =  5.3642
+num_features =  2
+theta =
+
+  -0.77968
+   0.87999
+
+J =  5.3610
+num_features =  2
+theta =
+
+  -0.78529
+   0.88055
+
+J =  5.3578
+num_features =  2
+theta =
+
+  -0.79090
+   0.88111
+
+J =  5.3546
+num_features =  2
+theta =
+
+  -0.79650
+   0.88168
+
+J =  5.3515
+num_features =  2
+theta =
+
+  -0.80208
+   0.88224
+
+J =  5.3483
+num_features =  2
+theta =
+
+  -0.80766
+   0.88280
+
+J =  5.3452
+num_features =  2
+theta =
+
+  -0.81323
+   0.88336
+
+J =  5.3420
+num_features =  2
+theta =
+
+  -0.81878
+   0.88392
+
+J =  5.3389
+num_features =  2
+theta =
+
+  -0.82433
+   0.88447
+
+J =  5.3358
+num_features =  2
+theta =
+
+  -0.82987
+   0.88503
+
+J =  5.3327
+num_features =  2
+theta =
+
+  -0.83539
+   0.88558
+
+J =  5.3296
+num_features =  2
+theta =
+
+  -0.84091
+   0.88614
+
+J =  5.3266
+num_features =  2
+theta =
+
+  -0.84642
+   0.88669
+
+J =  5.3235
+num_features =  2
+theta =
+
+  -0.85191
+   0.88724
+
+J =  5.3205
+num_features =  2
+theta =
+
+  -0.85740
+   0.88780
+
+J =  5.3174
+num_features =  2
+theta =
+
+  -0.86288
+   0.88835
+
+J =  5.3144
+num_features =  2
+theta =
+
+  -0.86835
+   0.88889
+
+J =  5.3114
+num_features =  2
+theta =
+
+  -0.87380
+   0.88944
+
+J =  5.3084
+num_features =  2
+theta =
+
+  -0.87925
+   0.88999
+
+J =  5.3054
+num_features =  2
+theta =
+
+  -0.88469
+   0.89054
+
+J =  5.3024
+num_features =  2
+theta =
+
+  -0.89012
+   0.89108
+
+J =  5.2994
+num_features =  2
+theta =
+
+  -0.89553
+   0.89163
+
+J =  5.2965
+num_features =  2
+theta =
+
+  -0.90094
+   0.89217
+
+J =  5.2935
+num_features =  2
+theta =
+
+  -0.90634
+   0.89271
+
+J =  5.2906
+num_features =  2
+theta =
+
+  -0.91173
+   0.89325
+
+J =  5.2876
+num_features =  2
+theta =
+
+  -0.91711
+   0.89379
+
+J =  5.2847
+num_features =  2
+theta =
+
+  -0.92248
+   0.89433
+
+J =  5.2818
+num_features =  2
+theta =
+
+  -0.92784
+   0.89487
+
+J =  5.2789
+num_features =  2
+theta =
+
+  -0.93319
+   0.89541
+
+J =  5.2760
+num_features =  2
+theta =
+
+  -0.93853
+   0.89595
+
+J =  5.2731
+num_features =  2
+theta =
+
+  -0.94386
+   0.89648
+
+J =  5.2703
+num_features =  2
+theta =
+
+  -0.94918
+   0.89702
+
+J =  5.2674
+num_features =  2
+theta =
+
+  -0.95449
+   0.89755
+
+J =  5.2646
+num_features =  2
+theta =
+
+  -0.95979
+   0.89808
+
+J =  5.2617
+num_features =  2
+theta =
+
+  -0.96509
+   0.89861
+
+J =  5.2589
+num_features =  2
+theta =
+
+  -0.97037
+   0.89914
+
+J =  5.2561
+num_features =  2
+theta =
+
+  -0.97564
+   0.89967
+
+J =  5.2533
+num_features =  2
+theta =
+
+  -0.98091
+   0.90020
+
+J =  5.2505
+num_features =  2
+theta =
+
+  -0.98616
+   0.90073
+
+J =  5.2477
+num_features =  2
+theta =
+
+  -0.99140
+   0.90126
+
+J =  5.2449
+num_features =  2
+theta =
+
+  -0.99664
+   0.90178
+
+J =  5.2422
+num_features =  2
+theta =
+
+  -1.00187
+   0.90231
+
+J =  5.2394
+num_features =  2
+theta =
+
+  -1.00708
+   0.90283
+
+J =  5.2367
+num_features =  2
+theta =
+
+  -1.01229
+   0.90336
+
+J =  5.2339
+num_features =  2
+theta =
+
+  -1.01749
+   0.90388
+
+J =  5.2312
+num_features =  2
+theta =
+
+  -1.02268
+   0.90440
+
+J =  5.2285
+num_features =  2
+theta =
+
+  -1.02785
+   0.90492
+
+J =  5.2258
+num_features =  2
+theta =
+
+  -1.03302
+   0.90544
+
+J =  5.2231
+num_features =  2
+theta =
+
+  -1.03818
+   0.90596
+
+J =  5.2204
+num_features =  2
+theta =
+
+  -1.04334
+   0.90647
+
+J =  5.2177
+num_features =  2
+theta =
+
+  -1.04848
+   0.90699
+
+J =  5.2150
+num_features =  2
+theta =
+
+  -1.05361
+   0.90751
+
+J =  5.2124
+num_features =  2
+theta =
+
+  -1.05873
+   0.90802
+
+J =  5.2097
+num_features =  2
+theta =
+
+  -1.06385
+   0.90854
+
+J =  5.2071
+num_features =  2
+theta =
+
+  -1.06895
+   0.90905
+
+J =  5.2045
+num_features =  2
+theta =
+
+  -1.07405
+   0.90956
+
+J =  5.2018
+num_features =  2
+theta =
+
+  -1.07913
+   0.91007
+
+J =  5.1992
+num_features =  2
+theta =
+
+  -1.08421
+   0.91058
+
+J =  5.1966
+num_features =  2
+theta =
+
+  -1.08928
+   0.91109
+
+J =  5.1940
+num_features =  2
+theta =
+
+  -1.09434
+   0.91160
+
+J =  5.1915
+num_features =  2
+theta =
+
+  -1.09939
+   0.91211
+
+J =  5.1889
+num_features =  2
+theta =
+
+  -1.10443
+   0.91261
+
+J =  5.1863
+num_features =  2
+theta =
+
+  -1.10946
+   0.91312
+
+J =  5.1838
+num_features =  2
+theta =
+
+  -1.11448
+   0.91362
+
+J =  5.1812
+num_features =  2
+theta =
+
+  -1.11950
+   0.91413
+
+J =  5.1787
+num_features =  2
+theta =
+
+  -1.12450
+   0.91463
+
+J =  5.1762
+num_features =  2
+theta =
+
+  -1.12950
+   0.91513
+
+J =  5.1736
+num_features =  2
+theta =
+
+  -1.13448
+   0.91563
+
+J =  5.1711
+num_features =  2
+theta =
+
+  -1.13946
+   0.91613
+
+J =  5.1686
+num_features =  2
+theta =
+
+  -1.14443
+   0.91663
+
+J =  5.1661
+num_features =  2
+theta =
+
+  -1.14939
+   0.91713
+
+J =  5.1637
+num_features =  2
+theta =
+
+  -1.15434
+   0.91763
+
+J =  5.1612
+num_features =  2
+theta =
+
+  -1.15928
+   0.91812
+
+J =  5.1587
+num_features =  2
+theta =
+
+  -1.16421
+   0.91862
+
+J =  5.1563
+num_features =  2
+theta =
+
+  -1.16914
+   0.91911
+
+J =  5.1538
+num_features =  2
+theta =
+
+  -1.17405
+   0.91961
+
+J =  5.1514
+num_features =  2
+theta =
+
+  -1.17896
+   0.92010
+
+J =  5.1489
+num_features =  2
+theta =
+
+  -1.18386
+   0.92059
+
+J =  5.1465
+num_features =  2
+theta =
+
+  -1.18875
+   0.92108
+
+J =  5.1441
+num_features =  2
+theta =
+
+  -1.19363
+   0.92157
+
+J =  5.1417
+num_features =  2
+theta =
+
+  -1.19850
+   0.92206
+
+J =  5.1393
+num_features =  2
+theta =
+
+  -1.20336
+   0.92255
+
+J =  5.1369
+num_features =  2
+theta =
+
+  -1.20821
+   0.92304
+
+J =  5.1346
+num_features =  2
+theta =
+
+  -1.21306
+   0.92352
+
+J =  5.1322
+num_features =  2
+theta =
+
+  -1.21789
+   0.92401
+
+J =  5.1298
+num_features =  2
+theta =
+
+  -1.22272
+   0.92450
+
+J =  5.1275
+num_features =  2
+theta =
+
+  -1.22754
+   0.92498
+
+J =  5.1251
+num_features =  2
+theta =
+
+  -1.23235
+   0.92546
+
+J =  5.1228
+num_features =  2
+theta =
+
+  -1.23715
+   0.92595
+
+J =  5.1205
+num_features =  2
+theta =
+
+  -1.24194
+   0.92643
+
+J =  5.1181
+num_features =  2
+theta =
+
+  -1.24672
+   0.92691
+
+J =  5.1158
+num_features =  2
+theta =
+
+  -1.25150
+   0.92739
+
+J =  5.1135
+num_features =  2
+theta =
+
+  -1.25627
+   0.92787
+
+J =  5.1112
+num_features =  2
+theta =
+
+  -1.26102
+   0.92834
+
+J =  5.1090
+num_features =  2
+theta =
+
+  -1.26577
+   0.92882
+
+J =  5.1067
+num_features =  2
+theta =
+
+  -1.27051
+   0.92930
+
+J =  5.1044
+num_features =  2
+theta =
+
+  -1.27525
+   0.92977
+
+J =  5.1022
+num_features =  2
+theta =
+
+  -1.27997
+   0.93025
+
+J =  5.0999
+num_features =  2
+theta =
+
+  -1.28469
+   0.93072
+
+J =  5.0977
+num_features =  2
+theta =
+
+  -1.28939
+   0.93119
+
+J =  5.0954
+num_features =  2
+theta =
+
+  -1.29409
+   0.93167
+
+J =  5.0932
+num_features =  2
+theta =
+
+  -1.29878
+   0.93214
+
+J =  5.0910
+num_features =  2
+theta =
+
+  -1.30346
+   0.93261
+
+J =  5.0888
+num_features =  2
+theta =
+
+  -1.30814
+   0.93308
+
+J =  5.0866
+num_features =  2
+theta =
+
+  -1.31280
+   0.93355
+
+J =  5.0844
+num_features =  2
+theta =
+
+  -1.31746
+   0.93401
+
+J =  5.0822
+num_features =  2
+theta =
+
+  -1.32210
+   0.93448
+
+J =  5.0800
+num_features =  2
+theta =
+
+  -1.32674
+   0.93495
+
+J =  5.0778
+num_features =  2
+theta =
+
+  -1.33137
+   0.93541
+
+J =  5.0757
+num_features =  2
+theta =
+
+  -1.33600
+   0.93588
+
+J =  5.0735
+num_features =  2
+theta =
+
+  -1.34061
+   0.93634
+
+J =  5.0714
+num_features =  2
+theta =
+
+  -1.34522
+   0.93680
+
+J =  5.0692
+num_features =  2
+theta =
+
+  -1.34981
+   0.93726
+
+J =  5.0671
+num_features =  2
+theta =
+
+  -1.35440
+   0.93772
+
+J =  5.0650
+num_features =  2
+theta =
+
+  -1.35898
+   0.93818
+
+J =  5.0628
+num_features =  2
+theta =
+
+  -1.36356
+   0.93864
+
+J =  5.0607
+num_features =  2
+theta =
+
+  -1.36812
+   0.93910
+
+J =  5.0586
+num_features =  2
+theta =
+
+  -1.37268
+   0.93956
+
+J =  5.0565
+num_features =  2
+theta =
+
+  -1.37723
+   0.94002
+
+J =  5.0544
+num_features =  2
+theta =
+
+  -1.38177
+   0.94047
+
+J =  5.0524
+num_features =  2
+theta =
+
+  -1.38630
+   0.94093
+
+J =  5.0503
+num_features =  2
+theta =
+
+  -1.39082
+   0.94138
+
+J =  5.0482
+num_features =  2
+theta =
+
+  -1.39534
+   0.94184
+
+J =  5.0462
+num_features =  2
+theta =
+
+  -1.39984
+   0.94229
+
+J =  5.0441
+num_features =  2
+theta =
+
+  -1.40434
+   0.94274
+
+J =  5.0421
+num_features =  2
+theta =
+
+  -1.40883
+   0.94319
+
+J =  5.0400
+num_features =  2
+theta =
+
+  -1.41332
+   0.94364
+
+J =  5.0380
+num_features =  2
+theta =
+
+  -1.41779
+   0.94409
+
+J =  5.0360
+num_features =  2
+theta =
+
+  -1.42226
+   0.94454
+
+J =  5.0340
+num_features =  2
+theta =
+
+  -1.42672
+   0.94499
+
+J =  5.0320
+num_features =  2
+theta =
+
+  -1.43117
+   0.94544
+
+J =  5.0300
+num_features =  2
+theta =
+
+  -1.43561
+   0.94588
+
+J =  5.0280
+num_features =  2
+theta =
+
+  -1.44005
+   0.94633
+
+J =  5.0260
+num_features =  2
+theta =
+
+  -1.44447
+   0.94677
+
+J =  5.0240
+num_features =  2
+theta =
+
+  -1.44889
+   0.94722
+
+J =  5.0220
+num_features =  2
+theta =
+
+  -1.45330
+   0.94766
+
+J =  5.0201
+num_features =  2
+theta =
+
+  -1.45770
+   0.94810
+
+J =  5.0181
+num_features =  2
+theta =
+
+  -1.46210
+   0.94854
+
+J =  5.0162
+num_features =  2
+theta =
+
+  -1.46649
+   0.94898
+
+J =  5.0142
+num_features =  2
+theta =
+
+  -1.47087
+   0.94942
+
+J =  5.0123
+num_features =  2
+theta =
+
+  -1.47524
+   0.94986
+
+J =  5.0104
+num_features =  2
+theta =
+
+  -1.47960
+   0.95030
+
+J =  5.0085
+num_features =  2
+theta =
+
+  -1.48396
+   0.95074
+
+J =  5.0065
+num_features =  2
+theta =
+
+  -1.48830
+   0.95118
+
+J =  5.0046
+num_features =  2
+theta =
+
+  -1.49264
+   0.95161
+
+J =  5.0027
+num_features =  2
+theta =
+
+  -1.49697
+   0.95205
+
+J =  5.0008
+num_features =  2
+theta =
+
+  -1.50130
+   0.95248
+
+J =  4.9989
+num_features =  2
+theta =
+
+  -1.50562
+   0.95292
+
+J =  4.9971
+num_features =  2
+theta =
+
+  -1.50992
+   0.95335
+
+J =  4.9952
+num_features =  2
+theta =
+
+  -1.51422
+   0.95378
+
+J =  4.9933
+num_features =  2
+theta =
+
+  -1.51852
+   0.95421
+
+J =  4.9915
+num_features =  2
+theta =
+
+  -1.52280
+   0.95464
+
+J =  4.9896
+num_features =  2
+theta =
+
+  -1.52708
+   0.95507
+
+J =  4.9878
+num_features =  2
+theta =
+
+  -1.53135
+   0.95550
+
+J =  4.9859
+num_features =  2
+theta =
+
+  -1.53561
+   0.95593
+
+J =  4.9841
+num_features =  2
+theta =
+
+  -1.53987
+   0.95636
+
+J =  4.9823
+num_features =  2
+theta =
+
+  -1.54411
+   0.95678
+
+J =  4.9805
+num_features =  2
+theta =
+
+  -1.54835
+   0.95721
+
+J =  4.9786
+num_features =  2
+theta =
+
+  -1.55258
+   0.95763
+
+J =  4.9768
+num_features =  2
+theta =
+
+  -1.55681
+   0.95806
+
+J =  4.9750
+num_features =  2
+theta =
+
+  -1.56102
+   0.95848
+
+J =  4.9732
+num_features =  2
+theta =
+
+  -1.56523
+   0.95890
+
+J =  4.9714
+num_features =  2
+theta =
+
+  -1.56943
+   0.95933
+
+J =  4.9697
+num_features =  2
+theta =
+
+  -1.57363
+   0.95975
+
+J =  4.9679
+num_features =  2
+theta =
+
+  -1.57781
+   0.96017
+
+J =  4.9661
+num_features =  2
+theta =
+
+  -1.58199
+   0.96059
+
+J =  4.9644
+num_features =  2
+theta =
+
+  -1.58616
+   0.96101
+
+J =  4.9626
+num_features =  2
+theta =
+
+  -1.59033
+   0.96143
+
+J =  4.9609
+num_features =  2
+theta =
+
+  -1.59448
+   0.96184
+
+J =  4.9591
+num_features =  2
+theta =
+
+  -1.59863
+   0.96226
+
+J =  4.9574
+num_features =  2
+theta =
+
+  -1.60277
+   0.96268
+
+J =  4.9556
+num_features =  2
+theta =
+
+  -1.60690
+   0.96309
+
+J =  4.9539
+num_features =  2
+theta =
+
+  -1.61103
+   0.96351
+
+J =  4.9522
+num_features =  2
+theta =
+
+  -1.61515
+   0.96392
+
+J =  4.9505
+num_features =  2
+theta =
+
+  -1.61926
+   0.96433
+
+J =  4.9488
+num_features =  2
+theta =
+
+  -1.62336
+   0.96474
+
+J =  4.9471
+num_features =  2
+theta =
+
+  -1.62746
+   0.96516
+
+J =  4.9454
+num_features =  2
+theta =
+
+  -1.63155
+   0.96557
+
+J =  4.9437
+num_features =  2
+theta =
+
+  -1.63563
+   0.96598
+
+J =  4.9420
+num_features =  2
+theta =
+
+  -1.63970
+   0.96639
+
+J =  4.9404
+num_features =  2
+theta =
+
+  -1.64377
+   0.96679
+
+J =  4.9387
+num_features =  2
+theta =
+
+  -1.64783
+   0.96720
+
+J =  4.9370
+num_features =  2
+theta =
+
+  -1.65188
+   0.96761
+
+J =  4.9354
+num_features =  2
+theta =
+
+  -1.65593
+   0.96802
+
+J =  4.9337
+num_features =  2
+theta =
+
+  -1.65996
+   0.96842
+
+J =  4.9321
+num_features =  2
+theta =
+
+  -1.66399
+   0.96883
+
+J =  4.9304
+num_features =  2
+theta =
+
+  -1.66802
+   0.96923
+
+J =  4.9288
+num_features =  2
+theta =
+
+  -1.67203
+   0.96963
+
+J =  4.9272
+num_features =  2
+theta =
+
+  -1.67604
+   0.97004
+
+J =  4.9255
+num_features =  2
+theta =
+
+  -1.68004
+   0.97044
+
+J =  4.9239
+num_features =  2
+theta =
+
+  -1.68404
+   0.97084
+
+J =  4.9223
+num_features =  2
+theta =
+
+  -1.68802
+   0.97124
+
+J =  4.9207
+num_features =  2
+theta =
+
+  -1.69200
+   0.97164
+
+J =  4.9191
+num_features =  2
+theta =
+
+  -1.69598
+   0.97204
+
+J =  4.9175
+num_features =  2
+theta =
+
+  -1.69994
+   0.97244
+
+J =  4.9159
+num_features =  2
+theta =
+
+  -1.70390
+   0.97284
+
+J =  4.9144
+num_features =  2
+theta =
+
+  -1.70785
+   0.97323
+
+J =  4.9128
+num_features =  2
+theta =
+
+  -1.71179
+   0.97363
+
+J =  4.9112
+num_features =  2
+theta =
+
+  -1.71573
+   0.97402
+
+J =  4.9096
+num_features =  2
+theta =
+
+  -1.71966
+   0.97442
+
+J =  4.9081
+num_features =  2
+theta =
+
+  -1.72358
+   0.97481
+
+J =  4.9065
+num_features =  2
+theta =
+
+  -1.72750
+   0.97521
+
+J =  4.9050
+num_features =  2
+theta =
+
+  -1.73141
+   0.97560
+
+J =  4.9034
+num_features =  2
+theta =
+
+  -1.73531
+   0.97599
+
+J =  4.9019
+num_features =  2
+theta =
+
+  -1.73920
+   0.97638
+
+J =  4.9004
+num_features =  2
+theta =
+
+  -1.74309
+   0.97677
+
+J =  4.8989
+num_features =  2
+theta =
+
+  -1.74697
+   0.97716
+
+J =  4.8973
+num_features =  2
+theta =
+
+  -1.75085
+   0.97755
+
+J =  4.8958
+num_features =  2
+theta =
+
+  -1.75471
+   0.97794
+
+J =  4.8943
+num_features =  2
+theta =
+
+  -1.75857
+   0.97833
+
+J =  4.8928
+num_features =  2
+theta =
+
+  -1.76242
+   0.97871
+
+J =  4.8913
+num_features =  2
+theta =
+
+  -1.76627
+   0.97910
+
+J =  4.8898
+num_features =  2
+theta =
+
+  -1.77011
+   0.97949
+
+J =  4.8883
+num_features =  2
+theta =
+
+  -1.77394
+   0.97987
+
+J =  4.8868
+num_features =  2
+theta =
+
+  -1.77776
+   0.98026
+
+J =  4.8854
+num_features =  2
+theta =
+
+  -1.78158
+   0.98064
+
+J =  4.8839
+num_features =  2
+theta =
+
+  -1.78539
+   0.98102
+
+J =  4.8824
+num_features =  2
+theta =
+
+  -1.78920
+   0.98140
+
+J =  4.8810
+num_features =  2
+theta =
+
+  -1.79300
+   0.98179
+
+J =  4.8795
+num_features =  2
+theta =
+
+  -1.79679
+   0.98217
+
+J =  4.8781
+num_features =  2
+theta =
+
+  -1.80057
+   0.98255
+
+J =  4.8766
+num_features =  2
+theta =
+
+  -1.80435
+   0.98293
+
+J =  4.8752
+num_features =  2
+theta =
+
+  -1.80812
+   0.98331
+
+J =  4.8738
+num_features =  2
+theta =
+
+  -1.81188
+   0.98368
+
+J =  4.8723
+num_features =  2
+theta =
+
+  -1.81564
+   0.98406
+
+J =  4.8709
+num_features =  2
+theta =
+
+  -1.81939
+   0.98444
+
+J =  4.8695
+num_features =  2
+theta =
+
+  -1.82313
+   0.98481
+
+J =  4.8681
+num_features =  2
+theta =
+
+  -1.82686
+   0.98519
+
+J =  4.8667
+num_features =  2
+theta =
+
+  -1.83059
+   0.98556
+
+J =  4.8653
+num_features =  2
+theta =
+
+  -1.83432
+   0.98594
+
+J =  4.8639
+num_features =  2
+theta =
+
+  -1.83803
+   0.98631
+
+J =  4.8625
+num_features =  2
+theta =
+
+  -1.84174
+   0.98668
+
+J =  4.8611
+num_features =  2
+theta =
+
+  -1.84544
+   0.98706
+
+J =  4.8597
+num_features =  2
+theta =
+
+  -1.84914
+   0.98743
+
+J =  4.8583
+num_features =  2
+theta =
+
+  -1.85283
+   0.98780
+
+J =  4.8569
+num_features =  2
+theta =
+
+  -1.85651
+   0.98817
+
+J =  4.8556
+num_features =  2
+theta =
+
+  -1.86019
+   0.98854
+
+J =  4.8542
+num_features =  2
+theta =
+
+  -1.86386
+   0.98890
+
+J =  4.8528
+num_features =  2
+theta =
+
+  -1.86752
+   0.98927
+
+J =  4.8515
+num_features =  2
+theta =
+
+  -1.87118
+   0.98964
+
+J =  4.8501
+num_features =  2
+theta =
+
+  -1.87483
+   0.99001
+
+J =  4.8488
+num_features =  2
+theta =
+
+  -1.87847
+   0.99037
+
+J =  4.8475
+num_features =  2
+theta =
+
+  -1.88211
+   0.99074
+
+J =  4.8461
+num_features =  2
+theta =
+
+  -1.88574
+   0.99110
+
+J =  4.8448
+num_features =  2
+theta =
+
+  -1.88936
+   0.99147
+
+J =  4.8435
+num_features =  2
+theta =
+
+  -1.89298
+   0.99183
+
+J =  4.8422
+num_features =  2
+theta =
+
+  -1.89659
+   0.99219
+
+J =  4.8408
+num_features =  2
+theta =
+
+  -1.90019
+   0.99255
+
+J =  4.8395
+num_features =  2
+theta =
+
+  -1.90379
+   0.99292
+
+J =  4.8382
+num_features =  2
+theta =
+
+  -1.90738
+   0.99328
+
+J =  4.8369
+num_features =  2
+theta =
+
+  -1.91096
+   0.99364
+
+J =  4.8356
+num_features =  2
+theta =
+
+  -1.91454
+   0.99400
+
+J =  4.8343
+num_features =  2
+theta =
+
+  -1.91811
+   0.99436
+
+J =  4.8330
+num_features =  2
+theta =
+
+  -1.92168
+   0.99471
+
+J =  4.8318
+num_features =  2
+theta =
+
+  -1.92523
+   0.99507
+
+J =  4.8305
+num_features =  2
+theta =
+
+  -1.92879
+   0.99543
+
+J =  4.8292
+num_features =  2
+theta =
+
+  -1.93233
+   0.99578
+
+J =  4.8279
+num_features =  2
+theta =
+
+  -1.93587
+   0.99614
+
+J =  4.8267
+num_features =  2
+theta =
+
+  -1.93940
+   0.99649
+
+J =  4.8254
+num_features =  2
+theta =
+
+  -1.94293
+   0.99685
+
+J =  4.8242
+num_features =  2
+theta =
+
+  -1.94645
+   0.99720
+
+J =  4.8229
+num_features =  2
+theta =
+
+  -1.94996
+   0.99756
+
+J =  4.8217
+num_features =  2
+theta =
+
+  -1.95347
+   0.99791
+
+J =  4.8204
+num_features =  2
+theta =
+
+  -1.95697
+   0.99826
+
+J =  4.8192
+num_features =  2
+theta =
+
+  -1.96047
+   0.99861
+
+J =  4.8180
+num_features =  2
+theta =
+
+  -1.96396
+   0.99896
+
+J =  4.8167
+num_features =  2
+theta =
+
+  -1.96744
+   0.99931
+
+J =  4.8155
+num_features =  2
+theta =
+
+  -1.97092
+   0.99966
+
+J =  4.8143
+num_features =  2
+theta =
+
+  -1.9744
+   1.0000
+
+J =  4.8131
+num_features =  2
+theta =
+
+  -1.9778
+   1.0004
+
+J =  4.8119
+num_features =  2
+theta =
+
+  -1.9813
+   1.0007
+
+J =  4.8107
+num_features =  2
+theta =
+
+  -1.9848
+   1.0011
+
+J =  4.8094
+num_features =  2
+theta =
+
+  -1.9882
+   1.0014
+
+J =  4.8083
+num_features =  2
+theta =
+
+  -1.9916
+   1.0017
+
+J =  4.8071
+num_features =  2
+theta =
+
+  -1.9951
+   1.0021
+
+J =  4.8059
+num_features =  2
+theta =
+
+  -1.9985
+   1.0024
+
+J =  4.8047
+num_features =  2
+theta =
+
+  -2.0019
+   1.0028
+
+J =  4.8035
+num_features =  2
+theta =
+
+  -2.0053
+   1.0031
+
+J =  4.8023
+num_features =  2
+theta =
+
+  -2.0087
+   1.0035
+
+J =  4.8012
+num_features =  2
+theta =
+
+  -2.0121
+   1.0038
+
+J =  4.8000
+num_features =  2
+theta =
+
+  -2.0155
+   1.0041
+
+J =  4.7988
+num_features =  2
+theta =
+
+  -2.0189
+   1.0045
+
+J =  4.7977
+num_features =  2
+theta =
+
+  -2.0223
+   1.0048
+
+J =  4.7965
+num_features =  2
+theta =
+
+  -2.0257
+   1.0052
+
+J =  4.7954
+num_features =  2
+theta =
+
+  -2.0291
+   1.0055
+
+J =  4.7942
+num_features =  2
+theta =
+
+  -2.0324
+   1.0058
+
+J =  4.7931
+num_features =  2
+theta =
+
+  -2.0358
+   1.0062
+
+J =  4.7919
+num_features =  2
+theta =
+
+  -2.0391
+   1.0065
+
+J =  4.7908
+num_features =  2
+theta =
+
+  -2.0425
+   1.0068
+
+J =  4.7897
+num_features =  2
+theta =
+
+  -2.0458
+   1.0072
+
+J =  4.7885
+num_features =  2
+theta =
+
+  -2.0492
+   1.0075
+
+J =  4.7874
+num_features =  2
+theta =
+
+  -2.0525
+   1.0079
+
+J =  4.7863
+num_features =  2
+theta =
+
+  -2.0558
+   1.0082
+
+J =  4.7852
+num_features =  2
+theta =
+
+  -2.0591
+   1.0085
+
+J =  4.7841
+num_features =  2
+theta =
+
+  -2.0624
+   1.0089
+
+J =  4.7830
+num_features =  2
+theta =
+
+  -2.0657
+   1.0092
+
+J =  4.7819
+num_features =  2
+theta =
+
+  -2.0690
+   1.0095
+
+J =  4.7808
+num_features =  2
+theta =
+
+  -2.0723
+   1.0098
+
+J =  4.7797
+num_features =  2
+theta =
+
+  -2.0756
+   1.0102
+
+J =  4.7786
+num_features =  2
+theta =
+
+  -2.0789
+   1.0105
+
+J =  4.7775
+num_features =  2
+theta =
+
+  -2.0822
+   1.0108
+
+J =  4.7764
+num_features =  2
+theta =
+
+  -2.0854
+   1.0112
+
+J =  4.7753
+num_features =  2
+theta =
+
+  -2.0887
+   1.0115
+
+J =  4.7743
+num_features =  2
+theta =
+
+  -2.0920
+   1.0118
+
+J =  4.7732
+num_features =  2
+theta =
+
+  -2.0952
+   1.0121
+
+J =  4.7721
+num_features =  2
+theta =
+
+  -2.0985
+   1.0125
+
+J =  4.7711
+num_features =  2
+theta =
+
+  -2.1017
+   1.0128
+
+J =  4.7700
+num_features =  2
+theta =
+
+  -2.1049
+   1.0131
+
+J =  4.7689
+num_features =  2
+theta =
+
+  -2.1082
+   1.0134
+
+J =  4.7679
+num_features =  2
+theta =
+
+  -2.1114
+   1.0138
+
+J =  4.7668
+num_features =  2
+theta =
+
+  -2.1146
+   1.0141
+
+J =  4.7658
+num_features =  2
+theta =
+
+  -2.1178
+   1.0144
+
+J =  4.7648
+num_features =  2
+theta =
+
+  -2.1210
+   1.0147
+
+J =  4.7637
+num_features =  2
+theta =
+
+  -2.1242
+   1.0151
+
+J =  4.7627
+num_features =  2
+theta =
+
+  -2.1274
+   1.0154
+
+J =  4.7617
+num_features =  2
+theta =
+
+  -2.1306
+   1.0157
+
+J =  4.7606
+num_features =  2
+theta =
+
+  -2.1338
+   1.0160
+
+J =  4.7596
+num_features =  2
+theta =
+
+  -2.1370
+   1.0163
+
+J =  4.7586
+num_features =  2
+theta =
+
+  -2.1401
+   1.0167
+
+J =  4.7576
+num_features =  2
+theta =
+
+  -2.1433
+   1.0170
+
+J =  4.7566
+num_features =  2
+theta =
+
+  -2.1465
+   1.0173
+
+J =  4.7556
+num_features =  2
+theta =
+
+  -2.1496
+   1.0176
+
+J =  4.7546
+num_features =  2
+theta =
+
+  -2.1528
+   1.0179
+
+J =  4.7536
+num_features =  2
+theta =
+
+  -2.1559
+   1.0182
+
+J =  4.7526
+num_features =  2
+theta =
+
+  -2.1590
+   1.0186
+
+J =  4.7516
+num_features =  2
+theta =
+
+  -2.1622
+   1.0189
+
+J =  4.7506
+num_features =  2
+theta =
+
+  -2.1653
+   1.0192
+
+J =  4.7496
+num_features =  2
+theta =
+
+  -2.1684
+   1.0195
+
+J =  4.7486
+num_features =  2
+theta =
+
+  -2.1715
+   1.0198
+
+J =  4.7476
+num_features =  2
+theta =
+
+  -2.1746
+   1.0201
+
+J =  4.7467
+num_features =  2
+theta =
+
+  -2.1777
+   1.0204
+
+J =  4.7457
+num_features =  2
+theta =
+
+  -2.1808
+   1.0207
+
+J =  4.7447
+num_features =  2
+theta =
+
+  -2.1839
+   1.0211
+
+J =  4.7438
+num_features =  2
+theta =
+
+  -2.1870
+   1.0214
+
+J =  4.7428
+num_features =  2
+theta =
+
+  -2.1901
+   1.0217
+
+J =  4.7418
+num_features =  2
+theta =
+
+  -2.1932
+   1.0220
+
+J =  4.7409
+num_features =  2
+theta =
+
+  -2.1962
+   1.0223
+
+J =  4.7399
+num_features =  2
+theta =
+
+  -2.1993
+   1.0226
+
+J =  4.7390
+num_features =  2
+theta =
+
+  -2.2024
+   1.0229
+
+J =  4.7380
+num_features =  2
+theta =
+
+  -2.2054
+   1.0232
+
+J =  4.7371
+num_features =  2
+theta =
+
+  -2.2085
+   1.0235
+
+J =  4.7362
+num_features =  2
+theta =
+
+  -2.2115
+   1.0238
+
+J =  4.7352
+num_features =  2
+theta =
+
+  -2.2145
+   1.0241
+
+J =  4.7343
+num_features =  2
+theta =
+
+  -2.2176
+   1.0244
+
+J =  4.7334
+num_features =  2
+theta =
+
+  -2.2206
+   1.0247
+
+J =  4.7325
+num_features =  2
+theta =
+
+  -2.2236
+   1.0250
+
+J =  4.7315
+num_features =  2
+theta =
+
+  -2.2266
+   1.0253
+
+J =  4.7306
+num_features =  2
+theta =
+
+  -2.2296
+   1.0257
+
+J =  4.7297
+num_features =  2
+theta =
+
+  -2.2326
+   1.0260
+
+J =  4.7288
+num_features =  2
+theta =
+
+  -2.2356
+   1.0263
+
+J =  4.7279
+num_features =  2
+theta =
+
+  -2.2386
+   1.0266
+
+J =  4.7270
+num_features =  2
+theta =
+
+  -2.2416
+   1.0269
+
+J =  4.7261
+num_features =  2
+theta =
+
+  -2.2446
+   1.0272
+
+J =  4.7252
+num_features =  2
+theta =
+
+  -2.2476
+   1.0275
+
+J =  4.7243
+num_features =  2
+theta =
+
+  -2.2505
+   1.0278
+
+J =  4.7234
+num_features =  2
+theta =
+
+  -2.2535
+   1.0280
+
+J =  4.7225
+num_features =  2
+theta =
+
+  -2.2565
+   1.0283
+
+J =  4.7216
+num_features =  2
+theta =
+
+  -2.2594
+   1.0286
+
+J =  4.7207
+num_features =  2
+theta =
+
+  -2.2624
+   1.0289
+
+J =  4.7199
+num_features =  2
+theta =
+
+  -2.2653
+   1.0292
+
+J =  4.7190
+num_features =  2
+theta =
+
+  -2.2683
+   1.0295
+
+J =  4.7181
+num_features =  2
+theta =
+
+  -2.2712
+   1.0298
+
+J =  4.7173
+num_features =  2
+theta =
+
+  -2.2741
+   1.0301
+
+J =  4.7164
+num_features =  2
+theta =
+
+  -2.2770
+   1.0304
+
+J =  4.7155
+num_features =  2
+theta =
+
+  -2.2800
+   1.0307
+
+J =  4.7147
+num_features =  2
+theta =
+
+  -2.2829
+   1.0310
+
+J =  4.7138
+num_features =  2
+theta =
+
+  -2.2858
+   1.0313
+
+J =  4.7130
+num_features =  2
+theta =
+
+  -2.2887
+   1.0316
+
+J =  4.7121
+num_features =  2
+theta =
+
+  -2.2916
+   1.0319
+
+J =  4.7113
+num_features =  2
+theta =
+
+  -2.2945
+   1.0322
+
+J =  4.7104
+num_features =  2
+theta =
+
+  -2.2974
+   1.0325
+
+J =  4.7096
+num_features =  2
+theta =
+
+  -2.3002
+   1.0327
+
+J =  4.7087
+num_features =  2
+theta =
+
+  -2.3031
+   1.0330
+
+J =  4.7079
+num_features =  2
+theta =
+
+  -2.3060
+   1.0333
+
+J =  4.7071
+num_features =  2
+theta =
+
+  -2.3088
+   1.0336
+
+J =  4.7062
+num_features =  2
+theta =
+
+  -2.3117
+   1.0339
+
+J =  4.7054
+num_features =  2
+theta =
+
+  -2.3146
+   1.0342
+
+J =  4.7046
+num_features =  2
+theta =
+
+  -2.3174
+   1.0345
+
+J =  4.7038
+num_features =  2
+theta =
+
+  -2.3203
+   1.0348
+
+J =  4.7030
+num_features =  2
+theta =
+
+  -2.3231
+   1.0350
+
+J =  4.7021
+num_features =  2
+theta =
+
+  -2.3259
+   1.0353
+
+J =  4.7013
+num_features =  2
+theta =
+
+  -2.3288
+   1.0356
+
+J =  4.7005
+num_features =  2
+theta =
+
+  -2.3316
+   1.0359
+
+J =  4.6997
+num_features =  2
+theta =
+
+  -2.3344
+   1.0362
+
+J =  4.6989
+num_features =  2
+theta =
+
+  -2.3372
+   1.0365
+
+J =  4.6981
+num_features =  2
+theta =
+
+  -2.3400
+   1.0367
+
+J =  4.6973
+num_features =  2
+theta =
+
+  -2.3428
+   1.0370
+
+J =  4.6965
+num_features =  2
+theta =
+
+  -2.3456
+   1.0373
+
+J =  4.6957
+num_features =  2
+theta =
+
+  -2.3484
+   1.0376
+
+J =  4.6949
+num_features =  2
+theta =
+
+  -2.3512
+   1.0379
+
+J =  4.6942
+num_features =  2
+theta =
+
+  -2.3540
+   1.0381
+
+J =  4.6934
+num_features =  2
+theta =
+
+  -2.3568
+   1.0384
+
+J =  4.6926
+num_features =  2
+theta =
+
+  -2.3596
+   1.0387
+
+J =  4.6918
+num_features =  2
+theta =
+
+  -2.3623
+   1.0390
+
+J =  4.6910
+num_features =  2
+theta =
+
+  -2.3651
+   1.0393
+
+J =  4.6903
+num_features =  2
+theta =
+
+  -2.3678
+   1.0395
+
+J =  4.6895
+num_features =  2
+theta =
+
+  -2.3706
+   1.0398
+
+J =  4.6887
+num_features =  2
+theta =
+
+  -2.3734
+   1.0401
+
+J =  4.6880
+num_features =  2
+theta =
+
+  -2.3761
+   1.0404
+
+J =  4.6872
+num_features =  2
+theta =
+
+  -2.3788
+   1.0406
+
+J =  4.6865
+num_features =  2
+theta =
+
+  -2.3816
+   1.0409
+
+J =  4.6857
+num_features =  2
+theta =
+
+  -2.3843
+   1.0412
+
+J =  4.6850
+num_features =  2
+theta =
+
+  -2.3870
+   1.0415
+
+J =  4.6842
+num_features =  2
+theta =
+
+  -2.3897
+   1.0417
+
+J =  4.6835
+num_features =  2
+theta =
+
+  -2.3925
+   1.0420
+
+J =  4.6827
+num_features =  2
+theta =
+
+  -2.3952
+   1.0423
+
+J =  4.6820
+num_features =  2
+theta =
+
+  -2.3979
+   1.0426
+
+J =  4.6812
+num_features =  2
+theta =
+
+  -2.4006
+   1.0428
+
+J =  4.6805
+num_features =  2
+theta =
+
+  -2.4033
+   1.0431
+
+J =  4.6798
+num_features =  2
+theta =
+
+  -2.4060
+   1.0434
+
+J =  4.6790
+num_features =  2
+theta =
+
+  -2.4086
+   1.0436
+
+J =  4.6783
+num_features =  2
+theta =
+
+  -2.4113
+   1.0439
+
+J =  4.6776
+num_features =  2
+theta =
+
+  -2.4140
+   1.0442
+
+J =  4.6769
+num_features =  2
+theta =
+
+  -2.4167
+   1.0444
+
+J =  4.6761
+num_features =  2
+theta =
+
+  -2.4193
+   1.0447
+
+J =  4.6754
+num_features =  2
+theta =
+
+  -2.4220
+   1.0450
+
+J =  4.6747
+num_features =  2
+theta =
+
+  -2.4247
+   1.0452
+
+J =  4.6740
+num_features =  2
+theta =
+
+  -2.4273
+   1.0455
+
+J =  4.6733
+num_features =  2
+theta =
+
+  -2.4300
+   1.0458
+
+J =  4.6726
+num_features =  2
+theta =
+
+  -2.4326
+   1.0460
+
+J =  4.6719
+num_features =  2
+theta =
+
+  -2.4352
+   1.0463
+
+J =  4.6712
+num_features =  2
+theta =
+
+  -2.4379
+   1.0466
+
+J =  4.6705
+num_features =  2
+theta =
+
+  -2.4405
+   1.0468
+
+J =  4.6698
+num_features =  2
+theta =
+
+  -2.4431
+   1.0471
+
+J =  4.6691
+num_features =  2
+theta =
+
+  -2.4457
+   1.0474
+
+J =  4.6684
+num_features =  2
+theta =
+
+  -2.4484
+   1.0476
+
+J =  4.6677
+num_features =  2
+theta =
+
+  -2.4510
+   1.0479
+
+J =  4.6670
+num_features =  2
+theta =
+
+  -2.4536
+   1.0481
+
+J =  4.6663
+num_features =  2
+theta =
+
+  -2.4562
+   1.0484
+
+J =  4.6656
+num_features =  2
+theta =
+
+  -2.4588
+   1.0487
+
+J =  4.6650
+num_features =  2
+theta =
+
+  -2.4614
+   1.0489
+
+J =  4.6643
+num_features =  2
+theta =
+
+  -2.4639
+   1.0492
+
+J =  4.6636
+num_features =  2
+theta =
+
+  -2.4665
+   1.0494
+
+J =  4.6629
+num_features =  2
+theta =
+
+  -2.4691
+   1.0497
+
+J =  4.6623
+num_features =  2
+theta =
+
+  -2.4717
+   1.0500
+
+J =  4.6616
+num_features =  2
+theta =
+
+  -2.4742
+   1.0502
+
+J =  4.6609
+num_features =  2
+theta =
+
+  -2.4768
+   1.0505
+
+J =  4.6603
+num_features =  2
+theta =
+
+  -2.4794
+   1.0507
+
+J =  4.6596
+num_features =  2
+theta =
+
+  -2.4819
+   1.0510
+
+J =  4.6590
+num_features =  2
+theta =
+
+  -2.4845
+   1.0513
+
+J =  4.6583
+num_features =  2
+theta =
+
+  -2.4870
+   1.0515
+
+J =  4.6577
+num_features =  2
+theta =
+
+  -2.4895
+   1.0518
+
+J =  4.6570
+num_features =  2
+theta =
+
+  -2.4921
+   1.0520
+
+J =  4.6564
+num_features =  2
+theta =
+
+  -2.4946
+   1.0523
+
+J =  4.6557
+num_features =  2
+theta =
+
+  -2.4971
+   1.0525
+
+J =  4.6551
+num_features =  2
+theta =
+
+  -2.4997
+   1.0528
+
+J =  4.6544
+num_features =  2
+theta =
+
+  -2.5022
+   1.0530
+
+J =  4.6538
+num_features =  2
+theta =
+
+  -2.5047
+   1.0533
+
+J =  4.6531
+num_features =  2
+theta =
+
+  -2.5072
+   1.0535
+
+J =  4.6525
+num_features =  2
+theta =
+
+  -2.5097
+   1.0538
+
+J =  4.6519
+num_features =  2
+theta =
+
+  -2.5122
+   1.0540
+
+J =  4.6513
+num_features =  2
+theta =
+
+  -2.5147
+   1.0543
+
+J =  4.6506
+num_features =  2
+theta =
+
+  -2.5172
+   1.0545
+
+J =  4.6500
+num_features =  2
+theta =
+
+  -2.5197
+   1.0548
+
+J =  4.6494
+num_features =  2
+theta =
+
+  -2.5221
+   1.0550
+
+J =  4.6488
+num_features =  2
+theta =
+
+  -2.5246
+   1.0553
+
+J =  4.6481
+num_features =  2
+theta =
+
+  -2.5271
+   1.0555
+
+J =  4.6475
+num_features =  2
+theta =
+
+  -2.5296
+   1.0558
+
+J =  4.6469
+num_features =  2
+theta =
+
+  -2.5320
+   1.0560
+
+J =  4.6463
+num_features =  2
+theta =
+
+  -2.5345
+   1.0563
+
+J =  4.6457
+num_features =  2
+theta =
+
+  -2.5369
+   1.0565
+
+J =  4.6451
+num_features =  2
+theta =
+
+  -2.5394
+   1.0568
+
+J =  4.6445
+num_features =  2
+theta =
+
+  -2.5418
+   1.0570
+
+J =  4.6439
+num_features =  2
+theta =
+
+  -2.5443
+   1.0573
+
+J =  4.6433
+num_features =  2
+theta =
+
+  -2.5467
+   1.0575
+
+J =  4.6427
+num_features =  2
+theta =
+
+  -2.5491
+   1.0577
+
+J =  4.6421
+num_features =  2
+theta =
+
+  -2.5516
+   1.0580
+
+J =  4.6415
+num_features =  2
+theta =
+
+  -2.5540
+   1.0582
+
+J =  4.6409
+num_features =  2
+theta =
+
+  -2.5564
+   1.0585
+
+J =  4.6403
+num_features =  2
+theta =
+
+  -2.5588
+   1.0587
+
+J =  4.6397
+num_features =  2
+theta =
+
+  -2.5612
+   1.0590
+
+J =  4.6391
+num_features =  2
+theta =
+
+  -2.5636
+   1.0592
+
+J =  4.6385
+num_features =  2
+theta =
+
+  -2.5660
+   1.0594
+
+J =  4.6380
+num_features =  2
+theta =
+
+  -2.5684
+   1.0597
+
+J =  4.6374
+num_features =  2
+theta =
+
+  -2.5708
+   1.0599
+
+J =  4.6368
+num_features =  2
+theta =
+
+  -2.5732
+   1.0602
+
+J =  4.6362
+num_features =  2
+theta =
+
+  -2.5756
+   1.0604
+
+J =  4.6356
+num_features =  2
+theta =
+
+  -2.5780
+   1.0606
+
+J =  4.6351
+num_features =  2
+theta =
+
+  -2.5803
+   1.0609
+
+J =  4.6345
+num_features =  2
+theta =
+
+  -2.5827
+   1.0611
+
+J =  4.6339
+num_features =  2
+theta =
+
+  -2.5851
+   1.0614
+
+J =  4.6334
+num_features =  2
+theta =
+
+  -2.5874
+   1.0616
+
+J =  4.6328
+num_features =  2
+theta =
+
+  -2.5898
+   1.0618
+
+J =  4.6322
+num_features =  2
+theta =
+
+  -2.5922
+   1.0621
+
+J =  4.6317
+num_features =  2
+theta =
+
+  -2.5945
+   1.0623
+
+J =  4.6311
+num_features =  2
+theta =
+
+  -2.5969
+   1.0625
+
+J =  4.6306
+num_features =  2
+theta =
+
+  -2.5992
+   1.0628
+
+J =  4.6300
+num_features =  2
+theta =
+
+  -2.6015
+   1.0630
+
+J =  4.6295
+num_features =  2
+theta =
+
+  -2.6039
+   1.0632
+
+J =  4.6289
+num_features =  2
+theta =
+
+  -2.6062
+   1.0635
+
+J =  4.6284
+num_features =  2
+theta =
+
+  -2.6085
+   1.0637
+
+J =  4.6278
+num_features =  2
+theta =
+
+  -2.6108
+   1.0639
+
+J =  4.6273
+num_features =  2
+theta =
+
+  -2.6132
+   1.0642
+
+J =  4.6267
+num_features =  2
+theta =
+
+  -2.6155
+   1.0644
+
+J =  4.6262
+num_features =  2
+theta =
+
+  -2.6178
+   1.0646
+
+J =  4.6257
+num_features =  2
+theta =
+
+  -2.6201
+   1.0649
+
+J =  4.6251
+num_features =  2
+theta =
+
+  -2.6224
+   1.0651
+
+J =  4.6246
+num_features =  2
+theta =
+
+  -2.6247
+   1.0653
+
+J =  4.6241
+num_features =  2
+theta =
+
+  -2.6270
+   1.0656
+
+J =  4.6235
+num_features =  2
+theta =
+
+  -2.6293
+   1.0658
+
+J =  4.6230
+num_features =  2
+theta =
+
+  -2.6315
+   1.0660
+
+J =  4.6225
+num_features =  2
+theta =
+
+  -2.6338
+   1.0663
+
+J =  4.6220
+num_features =  2
+theta =
+
+  -2.6361
+   1.0665
+
+J =  4.6214
+num_features =  2
+theta =
+
+  -2.6384
+   1.0667
+
+J =  4.6209
+num_features =  2
+theta =
+
+  -2.6406
+   1.0669
+
+J =  4.6204
+num_features =  2
+theta =
+
+  -2.6429
+   1.0672
+
+J =  4.6199
+num_features =  2
+theta =
+
+  -2.6452
+   1.0674
+
+J =  4.6194
+num_features =  2
+theta =
+
+  -2.6474
+   1.0676
+
+J =  4.6189
+num_features =  2
+theta =
+
+  -2.6497
+   1.0678
+
+J =  4.6183
+num_features =  2
+theta =
+
+  -2.6519
+   1.0681
+
+J =  4.6178
+num_features =  2
+theta =
+
+  -2.6541
+   1.0683
+
+J =  4.6173
+num_features =  2
+theta =
+
+  -2.6564
+   1.0685
+
+J =  4.6168
+num_features =  2
+theta =
+
+  -2.6586
+   1.0687
+
+J =  4.6163
+num_features =  2
+theta =
+
+  -2.6608
+   1.0690
+
+J =  4.6158
+num_features =  2
+theta =
+
+  -2.6631
+   1.0692
+
+J =  4.6153
+num_features =  2
+theta =
+
+  -2.6653
+   1.0694
+
+J =  4.6148
+num_features =  2
+theta =
+
+  -2.6675
+   1.0696
+
+J =  4.6143
+num_features =  2
+theta =
+
+  -2.6697
+   1.0699
+
+J =  4.6138
+num_features =  2
+theta =
+
+  -2.6719
+   1.0701
+
+J =  4.6133
+num_features =  2
+theta =
+
+  -2.6741
+   1.0703
+
+J =  4.6128
+num_features =  2
+theta =
+
+  -2.6763
+   1.0705
+
+J =  4.6123
+num_features =  2
+theta =
+
+  -2.6785
+   1.0707
+
+J =  4.6119
+num_features =  2
+theta =
+
+  -2.6807
+   1.0710
+
+J =  4.6114
+num_features =  2
+theta =
+
+  -2.6829
+   1.0712
+
+J =  4.6109
+num_features =  2
+theta =
+
+  -2.6851
+   1.0714
+
+J =  4.6104
+num_features =  2
+theta =
+
+  -2.6873
+   1.0716
+
+J =  4.6099
+num_features =  2
+theta =
+
+  -2.6895
+   1.0718
+
+J =  4.6094
+num_features =  2
+theta =
+
+  -2.6916
+   1.0721
+
+J =  4.6090
+num_features =  2
+theta =
+
+  -2.6938
+   1.0723
+
+J =  4.6085
+num_features =  2
+theta =
+
+  -2.6960
+   1.0725
+
+J =  4.6080
+num_features =  2
+theta =
+
+  -2.6981
+   1.0727
+
+J =  4.6076
+num_features =  2
+theta =
+
+  -2.7003
+   1.0729
+
+J =  4.6071
+num_features =  2
+theta =
+
+  -2.7025
+   1.0732
+
+J =  4.6066
+num_features =  2
+theta =
+
+  -2.7046
+   1.0734
+
+J =  4.6061
+num_features =  2
+theta =
+
+  -2.7068
+   1.0736
+
+J =  4.6057
+num_features =  2
+theta =
+
+  -2.7089
+   1.0738
+
+J =  4.6052
+num_features =  2
+theta =
+
+  -2.7110
+   1.0740
+
+J =  4.6048
+num_features =  2
+theta =
+
+  -2.7132
+   1.0742
+
+J =  4.6043
+num_features =  2
+theta =
+
+  -2.7153
+   1.0744
+
+J =  4.6038
+num_features =  2
+theta =
+
+  -2.7174
+   1.0747
+
+J =  4.6034
+num_features =  2
+theta =
+
+  -2.7196
+   1.0749
+
+J =  4.6029
+num_features =  2
+theta =
+
+  -2.7217
+   1.0751
+
+J =  4.6025
+num_features =  2
+theta =
+
+  -2.7238
+   1.0753
+
+J =  4.6020
+num_features =  2
+theta =
+
+  -2.7259
+   1.0755
+
+J =  4.6016
+num_features =  2
+theta =
+
+  -2.7280
+   1.0757
+
+J =  4.6011
+num_features =  2
+theta =
+
+  -2.7301
+   1.0759
+
+J =  4.6007
+num_features =  2
+theta =
+
+  -2.7322
+   1.0761
+
+J =  4.6002
+num_features =  2
+theta =
+
+  -2.7343
+   1.0764
+
+J =  4.5998
+num_features =  2
+theta =
+
+  -2.7364
+   1.0766
+
+J =  4.5993
+num_features =  2
+theta =
+
+  -2.7385
+   1.0768
+
+J =  4.5989
+num_features =  2
+theta =
+
+  -2.7406
+   1.0770
+
+J =  4.5985
+num_features =  2
+theta =
+
+  -2.7427
+   1.0772
+
+J =  4.5980
+num_features =  2
+theta =
+
+  -2.7448
+   1.0774
+
+J =  4.5976
+num_features =  2
+theta =
+
+  -2.7468
+   1.0776
+
+J =  4.5972
+num_features =  2
+theta =
+
+  -2.7489
+   1.0778
+
+J =  4.5967
+num_features =  2
+theta =
+
+  -2.7510
+   1.0780
+
+J =  4.5963
+num_features =  2
+theta =
+
+  -2.7530
+   1.0782
+
+J =  4.5959
+num_features =  2
+theta =
+
+  -2.7551
+   1.0784
+
+J =  4.5954
+num_features =  2
+theta =
+
+  -2.7571
+   1.0786
+
+J =  4.5950
+num_features =  2
+theta =
+
+  -2.7592
+   1.0789
+
+J =  4.5946
+num_features =  2
+theta =
+
+  -2.7613
+   1.0791
+
+J =  4.5942
+num_features =  2
+theta =
+
+  -2.7633
+   1.0793
+
+J =  4.5937
+num_features =  2
+theta =
+
+  -2.7653
+   1.0795
+
+J =  4.5933
+num_features =  2
+theta =
+
+  -2.7674
+   1.0797
+
+J =  4.5929
+num_features =  2
+theta =
+
+  -2.7694
+   1.0799
+
+J =  4.5925
+num_features =  2
+theta =
+
+  -2.7714
+   1.0801
+
+J =  4.5921
+num_features =  2
+theta =
+
+  -2.7735
+   1.0803
+
+J =  4.5916
+num_features =  2
+theta =
+
+  -2.7755
+   1.0805
+
+J =  4.5912
+num_features =  2
+theta =
+
+  -2.7775
+   1.0807
+
+J =  4.5908
+num_features =  2
+theta =
+
+  -2.7795
+   1.0809
+
+J =  4.5904
+num_features =  2
+theta =
+
+  -2.7815
+   1.0811
+
+J =  4.5900
+num_features =  2
+theta =
+
+  -2.7835
+   1.0813
+
+J =  4.5896
+num_features =  2
+theta =
+
+  -2.7855
+   1.0815
+
+J =  4.5892
+num_features =  2
+theta =
+
+  -2.7876
+   1.0817
+
+J =  4.5888
+num_features =  2
+theta =
+
+  -2.7895
+   1.0819
+
+J =  4.5884
+num_features =  2
+theta =
+
+  -2.7915
+   1.0821
+
+J =  4.5880
+num_features =  2
+theta =
+
+  -2.7935
+   1.0823
+
+J =  4.5876
+num_features =  2
+theta =
+
+  -2.7955
+   1.0825
+
+J =  4.5872
+num_features =  2
+theta =
+
+  -2.7975
+   1.0827
+
+J =  4.5868
+num_features =  2
+theta =
+
+  -2.7995
+   1.0829
+
+J =  4.5864
+num_features =  2
+theta =
+
+  -2.8015
+   1.0831
+
+J =  4.5860
+num_features =  2
+theta =
+
+  -2.8034
+   1.0833
+
+J =  4.5856
+num_features =  2
+theta =
+
+  -2.8054
+   1.0835
+
+J =  4.5852
+num_features =  2
+theta =
+
+  -2.8074
+   1.0837
+
+J =  4.5848
+num_features =  2
+theta =
+
+  -2.8093
+   1.0839
+
+J =  4.5844
+num_features =  2
+theta =
+
+  -2.8113
+   1.0841
+
+J =  4.5840
+num_features =  2
+theta =
+
+  -2.8132
+   1.0843
+
+J =  4.5837
+num_features =  2
+theta =
+
+  -2.8152
+   1.0845
+
+J =  4.5833
+num_features =  2
+theta =
+
+  -2.8171
+   1.0847
+
+J =  4.5829
+num_features =  2
+theta =
+
+  -2.8191
+   1.0849
+
+J =  4.5825
+num_features =  2
+theta =
+
+  -2.8210
+   1.0851
+
+J =  4.5821
+num_features =  2
+theta =
+
+  -2.8230
+   1.0853
+
+J =  4.5818
+num_features =  2
+theta =
+
+  -2.8249
+   1.0855
+
+J =  4.5814
+num_features =  2
+theta =
+
+  -2.8268
+   1.0856
+
+J =  4.5810
+num_features =  2
+theta =
+
+  -2.8288
+   1.0858
+
+J =  4.5806
+num_features =  2
+theta =
+
+  -2.8307
+   1.0860
+
+J =  4.5803
+num_features =  2
+theta =
+
+  -2.8326
+   1.0862
+
+J =  4.5799
+num_features =  2
+theta =
+
+  -2.8345
+   1.0864
+
+J =  4.5795
+num_features =  2
+theta =
+
+  -2.8364
+   1.0866
+
+J =  4.5791
+num_features =  2
+theta =
+
+  -2.8383
+   1.0868
+
+J =  4.5788
+num_features =  2
+theta =
+
+  -2.8402
+   1.0870
+
+J =  4.5784
+num_features =  2
+theta =
+
+  -2.8421
+   1.0872
+
+J =  4.5780
+num_features =  2
+theta =
+
+  -2.8440
+   1.0874
+
+J =  4.5777
+num_features =  2
+theta =
+
+  -2.8459
+   1.0876
+
+J =  4.5773
+num_features =  2
+theta =
+
+  -2.8478
+   1.0878
+
+J =  4.5770
+num_features =  2
+theta =
+
+  -2.8497
+   1.0879
+
+J =  4.5766
+num_features =  2
+theta =
+
+  -2.8516
+   1.0881
+
+J =  4.5762
+num_features =  2
+theta =
+
+  -2.8535
+   1.0883
+
+J =  4.5759
+num_features =  2
+theta =
+
+  -2.8554
+   1.0885
+
+J =  4.5755
+num_features =  2
+theta =
+
+  -2.8572
+   1.0887
+
+J =  4.5752
+num_features =  2
+theta =
+
+  -2.8591
+   1.0889
+
+J =  4.5748
+num_features =  2
+theta =
+
+  -2.8610
+   1.0891
+
+J =  4.5745
+num_features =  2
+theta =
+
+  -2.8629
+   1.0893
+
+J =  4.5741
+num_features =  2
+theta =
+
+  -2.8647
+   1.0895
+
+J =  4.5738
+num_features =  2
+theta =
+
+  -2.8666
+   1.0896
+
+J =  4.5734
+num_features =  2
+theta =
+
+  -2.8684
+   1.0898
+
+J =  4.5731
+num_features =  2
+theta =
+
+  -2.8703
+   1.0900
+
+J =  4.5727
+num_features =  2
+theta =
+
+  -2.8721
+   1.0902
+
+J =  4.5724
+num_features =  2
+theta =
+
+  -2.8740
+   1.0904
+
+J =  4.5720
+num_features =  2
+theta =
+
+  -2.8758
+   1.0906
+
+J =  4.5717
+num_features =  2
+theta =
+
+  -2.8777
+   1.0908
+
+J =  4.5713
+num_features =  2
+theta =
+
+  -2.8795
+   1.0909
+
+J =  4.5710
+num_features =  2
+theta =
+
+  -2.8813
+   1.0911
+
+J =  4.5707
+num_features =  2
+theta =
+
+  -2.8831
+   1.0913
+
+J =  4.5703
+num_features =  2
+theta =
+
+  -2.8850
+   1.0915
+
+J =  4.5700
+num_features =  2
+theta =
+
+  -2.8868
+   1.0917
+
+J =  4.5697
+num_features =  2
+theta =
+
+  -2.8886
+   1.0919
+
+J =  4.5693
+num_features =  2
+theta =
+
+  -2.8904
+   1.0920
+
+J =  4.5690
+num_features =  2
+theta =
+
+  -2.8922
+   1.0922
+
+J =  4.5687
+num_features =  2
+theta =
+
+  -2.8941
+   1.0924
+
+J =  4.5683
+num_features =  2
+theta =
+
+  -2.8959
+   1.0926
+
+J =  4.5680
+num_features =  2
+theta =
+
+  -2.8977
+   1.0928
+
+J =  4.5677
+num_features =  2
+theta =
+
+  -2.8995
+   1.0929
+
+J =  4.5673
+num_features =  2
+theta =
+
+  -2.9013
+   1.0931
+
+J =  4.5670
+num_features =  2
+theta =
+
+  -2.9030
+   1.0933
+
+J =  4.5667
+num_features =  2
+theta =
+
+  -2.9048
+   1.0935
+
+J =  4.5664
+num_features =  2
+theta =
+
+  -2.9066
+   1.0937
+
+J =  4.5660
+num_features =  2
+theta =
+
+  -2.9084
+   1.0938
+
+J =  4.5657
+num_features =  2
+theta =
+
+  -2.9102
+   1.0940
+
+J =  4.5654
+num_features =  2
+theta =
+
+  -2.9120
+   1.0942
+
+J =  4.5651
+num_features =  2
+theta =
+
+  -2.9137
+   1.0944
+
+J =  4.5648
+num_features =  2
+theta =
+
+  -2.9155
+   1.0946
+
+J =  4.5645
+num_features =  2
+theta =
+
+  -2.9173
+   1.0947
+
+J =  4.5641
+num_features =  2
+theta =
+
+  -2.9190
+   1.0949
+
+J =  4.5638
+num_features =  2
+theta =
+
+  -2.9208
+   1.0951
+
+J =  4.5635
+num_features =  2
+theta =
+
+  -2.9226
+   1.0953
+
+J =  4.5632
+num_features =  2
+theta =
+
+  -2.9243
+   1.0954
+
+J =  4.5629
+num_features =  2
+theta =
+
+  -2.9261
+   1.0956
+
+J =  4.5626
+num_features =  2
+theta =
+
+  -2.9278
+   1.0958
+
+J =  4.5623
+num_features =  2
+theta =
+
+  -2.9296
+   1.0960
+
+J =  4.5620
+num_features =  2
+theta =
+
+  -2.9313
+   1.0961
+
+J =  4.5617
+num_features =  2
+theta =
+
+  -2.9330
+   1.0963
+
+J =  4.5614
+num_features =  2
+theta =
+
+  -2.9348
+   1.0965
+
+J =  4.5611
+num_features =  2
+theta =
+
+  -2.9365
+   1.0967
+
+J =  4.5607
+num_features =  2
+theta =
+
+  -2.9382
+   1.0968
+
+J =  4.5604
+num_features =  2
+theta =
+
+  -2.9400
+   1.0970
+
+J =  4.5601
+num_features =  2
+theta =
+
+  -2.9417
+   1.0972
+
+J =  4.5598
+num_features =  2
+
