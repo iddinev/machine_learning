@@ -66,37 +66,26 @@ X = [ones(m, 1), X];
 Layer2 = sigmoid(Theta1 * X');
 Layer2 = [ones(1, m);   Layer2];
 H = sigmoid(Theta2 * Layer2);
-
-% Think of ways to use only matrices for these computations, i.e. no for loops.
-for i = 1:m
-  y_bin = zeros(num_labels, 1);
-  y_bin(y(i)) = 1;
-  cost = y_bin .* log(H(:,i)) .+ (1 .- y_bin) .* log(1 .- H(:,i));
-  J += sum(cost);
-end
+Y_bin = [1:num_labels] == y; % This is where the magic happens - Broadcasting.
+Y_bin = Y_bin';
+Cost = Y_bin .* log(H) .+ (1 .- Y_bin) .* log(1 .- H);
+J += sum(sum(Cost));
 J *= -1 / m;
 J += (lambda / (2 * m)) * (sum(Theta1(:,2:end)(:).^2) + sum(Theta2(:,2:end)(:).^2));
 
-delta1 = Theta1;
-delta1(:) = 0;
-delta2 = Theta2;
-delta2(:) = 0;
-for t = 1:m
-  a1 = X(t,:);
-  z2 = Theta1 * a1';
-  a2 = sigmoid(z2);
-  a2 = [1; a2];
-  z3 = Theta2 * a2;
-  a3 = sigmoid(z3);
-  y_bin = zeros(num_labels, 1);
-  y_bin(y(i)) = 1;
-  d3 = a3 - y_bin;
-  d2 = (Theta2' * d3) .* sigmoidGradient(a2);
-  delta1 += (d2 * a1)(2:end,:);
-  delta2 += (d3 * a2');
-end 
-Theta1_grad = 1 / m * delta1;
-Theta2_grad = 1 / m * delta2;
+A1 = X';
+Z2 = Theta1 * A1;
+A2 = sigmoid(Z2);
+A2 = [ones(1,m); A2];
+Z3 = Theta2 * A2;
+A3 = sigmoid(Z3);
+Y_bin = (eye(num_labels)(y,:))'; % Another variant of the magic.
+D3 = A3 - Y_bin;
+D2 = (Theta2(:,2:end)' * D3) .* sigmoidGradient(Z2);
+Delta1 = D2 * A1';
+Delta2 = D3 * A2';
+Theta1_grad = 1 / m * Delta1 + (lambda / m) * [zeros(hidden_layer_size, 1), Theta1(:,2:end)]; 
+Theta2_grad = 1 / m * Delta2 + (lambda / m) * [zeros(num_labels, 1), Theta2(:,2:end)];
 
 % -------------------------------------------------------------
 
