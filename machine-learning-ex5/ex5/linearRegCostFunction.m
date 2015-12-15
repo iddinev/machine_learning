@@ -19,16 +19,13 @@ grad = zeros(size(theta));
 %               You should set J to the cost and grad to the gradient.
 %
 
+J = ((X * theta - y)' * (X * theta - y)) / (2 * m);
+J += (lambda / (2 * m)) * sum(theta(2:end) .^ 2);
 
-
-
-
-
-
-
-
-
-
+grad = ((X * theta - y)' * X)' / m;
+% When using .<operator>= and we need to transpose, we can only do it
+% on the right side of the equation, otherwise Octave gives an error.
+grad(2:end) .+= (lambda / m) * theta(2:end);
 
 % =========================================================================
 
